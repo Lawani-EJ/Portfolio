@@ -145,7 +145,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
-        background: linear-gradient(rgba(3, 63, 71, 0.6), rgba(3, 63, 71, 0.6)), url(/Personal-Bootstrap-Portfolio/Assets/Images/sidebar.jpeg);
+        background: linear-gradient(rgba(3, 63, 71, 0.6), rgba(3, 63, 71, 0.6)), url(\portfolio\assets\Images\sidebar.jpeg);
         background-size: cover;
         background-position: center;
     }
