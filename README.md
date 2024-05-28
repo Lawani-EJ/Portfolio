@@ -1,4 +1,4 @@
-# Welcome to 🚀 ElyonJohn's Portfolio
+# Welcome to 🚀 My Portfolio
 
 Welcome to my personal portfolio website! This project is a showcases my skills, projects, and experiences as a Frontend Designer that's based in Nigeria. 🌍
 
